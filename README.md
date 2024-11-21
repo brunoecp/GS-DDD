@@ -1,5 +1,5 @@
 # Projeto feito para a entrega da materia da GS-DDD 
-**Todos os endpoints estarão abaixo, junto de seus exemplos**
+**Todos os endpoints estarão abaixo, junto de seus exemplos, O banco de dados usado é o da oracle, é apenas necessario clonar o projeto, e executado, após isso a api ja estará em funcionamento na porta localhost:8000**
 - [Cliente](#cliente)
 - [Instalação](#instalação)
 - [Contrato](#contrato)
