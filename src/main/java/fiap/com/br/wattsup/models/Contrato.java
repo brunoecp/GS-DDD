@@ -1,6 +1,5 @@
 package fiap.com.br.wattsup.models;
 
-import java.time.LocalDate;
 import java.util.Date;
 import java.util.UUID;
 
